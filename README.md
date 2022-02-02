@@ -11,5 +11,5 @@ As regras são:
 - Gerar múltiplas cartelas, sem haver números repetidos entre elas.
 - Gerar jogadores usando a biblioteca faker.
 
-Intao Bora tentar? 🖥️🖱️
+Então Bora tentar? 🖥️🖱️
 
